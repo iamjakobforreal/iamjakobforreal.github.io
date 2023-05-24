@@ -9,13 +9,13 @@ Enjoy the content. Thank you and come again!
 (so that you are not confused about some other "Jakob"-s)
 
 # Crossword: The Wisdom of The Jakob 
-(Real quotes from the real thing)
+(100% real Jakob; 100% real quotes)
 
-**1) First step:** Solve crossword [here](https://crosswordlabs.com/view/jakob-97)
+**1) First step:** _Solve crossword [here](https://crosswordlabs.com/view/jakob-97)_
 
-**2) Second step: Come back anytime to see the answers here**
+**2) Second step:** _Come back anytime to see the answers below_
 
-(UNLESS YOU ARE A PARTY (BAT) POOPER, DO NOT UNTOGGLE THE FOLLOWING BEFORE SOLVING THE PUZZLE)
+(UNLESS YOU ARE A PARTY (BAT) POOPER, DO NOT UNTOGGLE THE FOLLOWING BEFORE SOLVING THE CROSSWORD!)
 
 <details>
 <summary>
