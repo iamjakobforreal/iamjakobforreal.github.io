@@ -1,8 +1,7 @@
 I am the Jakob. Welcome to my personal blog. 
 
-First and foremost, I, The Jakob, am still learning how to build this website, so I do not want any comments about its design. So back off!
-
-Enjoy the content. Thank you and come again! 
+First and foremost, I, The Jakob, am still learning how to build this website, so I do not want any comments about its design. Yes, you got it right, dear reader: back off!
+But also, enjoy the content. Also, thank you and come again! 
 
 # A Picture of The Jakob
 <img src="./signal-2023-05-02-205022.jpeg" width="400">
