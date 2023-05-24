@@ -11,9 +11,11 @@ Enjoy the content. Thank you and come again!
 # Crossword: The Wisdom of The Jakob 
 (100% real Jakob; 100% real quotes)
 
-**1) First step:** _Solve crossword [here](https://crosswordlabs.com/view/jakob-97)_
+## 1. First step
+_Solve crossword [here](https://crosswordlabs.com/view/jakob-97)_
 
-**2) Second step:** _Come back anytime to see the answers below_
+## 2. Second step
+_Come back anytime to see the answers below_
 
 (UNLESS YOU ARE A PARTY (BAT) POOPER, DO NOT UNTOGGLE THE FOLLOWING BEFORE SOLVING THE CROSSWORD!)
 
@@ -46,7 +48,7 @@ A techno musician
 
 <details>
 <summary>
-What is trick to recognize bat poop be recognized by?
+What is a trick to recognize bat poop be recognized by?
 </summary>
   Smell
 </details>
@@ -64,3 +66,7 @@ Why visit Stavanger?
 The best investment idea I have? </summary>
 Climbing brush made by blind people
 </details>
+
+## Copyright
+
+[carpediem2012-13.com](carpediem2012-13.com). Copyright (c) ~~2023~~ 2012-13 The Jakob.
