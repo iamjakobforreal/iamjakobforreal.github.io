@@ -11,10 +11,9 @@ Enjoy the content. Thank you and come again!
 # Crossword: The Wisdom of The Jakob 
 (Real quotes from the real thing)
 
-**First step:** Solve crossword here
-https://crosswordlabs.com/view/jakob-97
+**1) First step:** Solve crossword [here](https://crosswordlabs.com/view/jakob-97)
 
-**Second step: Come back anytime to see the answers here**
+**2) Second step: Come back anytime to see the answers here**
 
 (UNLESS YOU ARE A PARTY (BAT) POOPER, DO NOT UNTOGGLE THE FOLLOWING BEFORE SOLVING THE PUZZLE)
 
