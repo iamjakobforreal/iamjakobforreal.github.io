@@ -4,4 +4,4 @@ First and foremost, I am still learning how to build this website, so I do not w
 
 Thank you and come again!
 
-![This is the Jakob](https://drive.google.com/file/d/1iKYQqK6ETqfaDVOFiWZXy874C70NJ-FR/view?usp=sharing)
+![This is the Jakob](./signal-2023-05-02-205022.jpeg)
