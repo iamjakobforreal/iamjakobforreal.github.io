@@ -8,8 +8,15 @@ Enjoy the content. Thank you and come again!
 <img src="./signal-2023-05-02-205022.jpeg" width="400">
 (so that you are not confused about some other "Jakob"-s)
 
-# The Wisdom of The Jakob (real quotes from the real thing)
-(this is WIP)
+# Crossword: The Wisdom of The Jakob 
+(Real quotes from the real thing)
+
+**First step:** Solve crossword here
+https://crosswordlabs.com/view/jakob-97
+
+**Second step: Come back anytime to see the answers here**
+
+(UNLESS YOU ARE A PARTY (BAT) POOPER, DO NOT UNTOGGLE THE FOLLOWING BEFORE SOLVING THE PUZZLE)
 
 <details>
 <summary>
@@ -45,14 +52,15 @@ What is trick to recognize bat poop be recognized by?
   Smell
 </details>
 
+<details>
+
 <summary>
-What is trick to recognize bat poop be recognized by?
+Why visit Stavanger?
 </summary>
+   Marius’s parents
 </details>
 
-
-What to visit in Stavanger: Marius’ parents
-
+<details>
 <summary>
 The best investment idea I have? </summary>
 Climbing brush made by blind people
