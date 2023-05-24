@@ -47,7 +47,7 @@ A techno musician
 
 <details>
 <summary>
-What is a trick to recognize bat poop be recognized by?
+What is a secret trick to recognize bat poop?
 </summary>
   Smell
 </details>
